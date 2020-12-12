@@ -1,0 +1,61 @@
+category,month,count
+Burglary,January,618
+Burglary,February,551
+Burglary,March,591
+Burglary,April,597
+Burglary,May,650
+Burglary,June,583
+Burglary,July,656
+Burglary,August,708
+Burglary,September,617
+Burglary,October,556
+Burglary,November,501
+Burglary,December,527
+Drug Offense,January,341
+Drug Offense,February,350
+Drug Offense,March,421
+Drug Offense,April,347
+Drug Offense,May,385
+Drug Offense,June,250
+Drug Offense,July,332
+Drug Offense,August,280
+Drug Offense,September,270
+Drug Offense,October,449
+Drug Offense,November,431
+Drug Offense,December,270
+Fraud,January,382
+Fraud,February,329
+Fraud,March,435
+Fraud,April,412
+Fraud,May,421
+Fraud,June,378
+Fraud,July,429
+Fraud,August,400
+Fraud,September,321
+Fraud,October,367
+Fraud,November,376
+Fraud,December,359
+Motor Vehicle Theft,January,420
+Motor Vehicle Theft,February,367
+Motor Vehicle Theft,March,398
+Motor Vehicle Theft,April,389
+Motor Vehicle Theft,May,453
+Motor Vehicle Theft,June,481
+Motor Vehicle Theft,July,485
+Motor Vehicle Theft,August,443
+Motor Vehicle Theft,September,449
+Motor Vehicle Theft,October,496
+Motor Vehicle Theft,November,448
+Motor Vehicle Theft,December,463
+Traffic Violation Arrest,January,221
+Traffic Violation Arrest,February,189
+Traffic Violation Arrest,March,177
+Traffic Violation Arrest,April,181
+Traffic Violation Arrest,May,202
+Traffic Violation Arrest,June,109
+Traffic Violation Arrest,July,133
+Traffic Violation Arrest,August,205
+Traffic Violation Arrest,September,178
+Traffic Violation Arrest,October,151
+Traffic Violation Arrest,November,187
+Traffic Violation Arrest,December,165
